@@ -22,8 +22,11 @@
 </div>
 
 > ⚡ **Fun Fact**: I think I am lazy..but when I have got the passion to do something, I will complete it. <br/>
-[![Github](https://img.shields.io/github/followers/sufian202262?label=Follow&style=social)](https://github.com/sufian202262)&nbsp;<!-- ![Profile views](https://gpvc.arturio.dev/sufian202262) -->
+[![Github](https://img.shields.io/github/followers/sufian202262?label=Follow&style=social)](https://github.com/sufian202262)&nbsp;
+<!-- ![Profile views](https://gpvc.arturio.dev/sufian202262) -->
+<!--
 [![wakatime](https://wakatime.com/badge/user/b91aacce-e1eb-46ee-8af4-b4fe37728d49.svg)](https://wakatime.com/@b91aacce-e1eb-46ee-8af4-b4fe37728d49)
+-->
 
   ## 🏆 GitHub Trophies
   [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sufian202262)](https://github.com/sufian202262)
@@ -60,18 +63,16 @@
 </p> 
 
 
-## 💡 Favorite Quote
+## 💡 Daily Inspiration
+
 <div align="center">
-    [![Readme Quotes](https://quotes-github-readme.vercel.app/api?
-    type=vertical&
-    theme=radical&
-    quote=You%20can’t%20connect%20the%20dots%20looking%20forward%3B%20you%20can%20only%20connect%20them%20looking%20backwards.%20So%20you%20have%20to%20trust%20that%20the%20dots%20will%20somehow%20connect%20in%20your%20future.&
-    author=Steve%20Jobs&
-    quoteColor=ffffff&
-    authorColor=adbac7&
-    backgroundColor=0d1117&
-    symbolColor=ff5d80
-    )](https://github.com/piyushsuthar/github-readme-quotes)
+
+> **"You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future."**
+>
+> *— Steve Jobs*
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
 </div>
 
 ## 🔝 Top Contributed Repositories
