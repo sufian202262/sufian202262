@@ -28,10 +28,6 @@
 [![wakatime](https://wakatime.com/badge/user/b91aacce-e1eb-46ee-8af4-b4fe37728d49.svg)](https://wakatime.com/@b91aacce-e1eb-46ee-8af4-b4fe37728d49)
 -->
 
-  ## 🏆 GitHub Trophies
-  [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sufian202262)](https://github.com/sufian202262)
-
-
 ### <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width='50'/>&nbsp;Technologies and Tools</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,tailwind,figma,react,nextjs,nodejs,express,mongodb,mysql,postgres,firebase,git,heroku,netlify,docker,aws,gcp,azure,postman,vscode,linux,windows,discord,trello,jira" />
@@ -51,6 +47,11 @@
 
 
 
+## 🏆 GitHub Trophies
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sufian202262)](https://github.com/sufian202262)
+
+
 
 ## 📊 GitHub Statistics
 <!-- 
@@ -66,13 +67,17 @@
 ## 💡 Daily Inspiration
 
 <div align="center">
-
-> **"You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future."**
->
-> *— Steve Jobs*
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 15px; max-width: 600px; margin: 20px auto; box-shadow: 0 10px 30px rgba(0,0,0,0.3); border: 2px solid rgba(255,255,255,0.1); position: relative;">
+    <blockquote style="font-family: 'Georgia', serif; font-size: 18px; line-height: 1.6; color: #ffffff; margin: 0; font-style: italic; text-align: center;">
+      <span style="font-size: 24px; color: #ffeb3b;">"</span>You can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future.<span style="font-size: 24px; color: #ffeb3b;">"</span>
+    </blockquote>
+    <div style="margin-top: 15px; text-align: right;">
+      <cite style="color: #ffeb3b; font-weight: bold; font-size: 16px; font-family: 'Arial', sans-serif;">— Steve Jobs</cite>
+    </div>
+    <div style="position: absolute; top: 10px; right: 15px; opacity: 0.3;">
+      <span style="font-size: 40px; color: #ffffff;">💭</span>
+    </div>
+  </div>
 </div>
 
 ## 🔝 Top Contributed Repositories
