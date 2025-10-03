@@ -2,15 +2,13 @@
 
 <div align="center">
   <h1>Hi 👋, I'm Abu Sufian</h1>
-  <h3>💻 Full Stack Developer | ⚡ Passionate about Learning New Technologies</h3> <br/><br/>
-📫 Reach me at: <a href="mailto:abusuifian202262@gmail.com">abusufian202262@gmail.com</a> 
-
-  <img src="https://komarev.com/ghpvc/?username=sufian202262&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  
+  <h3>💻 Full Stack Developer | ⚡ Passionate about Learning New Technologies</h3><br/>
+  <strong>📫 Reach me at:</strong> <a href="mailto:abusuifian202262@gmail.com">abusufian202262@gmail.com</a> <br/>
+  <strong>🌐 Portfolio:</strong> <a href="https://iamsufian.com">iamsufian.com</a> <br/>
+  <strong>📄 Resume:</strong> <a href="https://iamsufian.com/Abu_Sufian_resume.pdf">Abu_Sufian_resume</a>
 </div>
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: flex-start; gap: 40px; margin: 20px 0;">
-
   <div align="left" style="flex: 1; max-width: 45%;">
     <h3>💪 Personal Challenges</h3>
     <ul>
@@ -21,26 +19,15 @@
       <li>🎯 Contributing to open-source regularly</li>
     </ul>
   </div>
-
-  <div align="right" style="flex: 1; max-width: 45%;">
-    <h3>🚀 Current Focus</h3>
-    <ul>
-      <li><strong>🔭 Currently Working On:</strong> React, Node.js</li>
-      <li><strong>🌱 Currently Learning:</strong> C#, .NET</li>
-      <li><strong>👨‍💻 Portfolio:</strong> <a href="https://www.iamsufian.com">iamsufian.com</a></li>
-      <li><strong>💬 Tech Stack:</strong> React, Node.js, C#, .NET Core, MVC, C++</li>
-      <li><strong>📫 Contact:</strong> <a href="mailto:abusufian202262@gmail.com">abusufian202262@gmail.com</a></li>
-      <li><strong>📄 Resume:</strong> <a href="https://iamsufian.com/Abu_Sufian_resume.pdf">Abu_Sufian_resume</a></li>
-    </ul>
-  </div>
 </div>
 
-> ⚡ **Fun Fact**: I think I am lazy..but when I have got the passion to do something, I will complete it.
+> ⚡ **Fun Fact**: I think I am lazy..but when I have got the passion to do something, I will complete it. <br/>
 [![Github](https://img.shields.io/github/followers/sufian202262?label=Follow&style=social)](https://github.com/sufian202262)&nbsp;<!-- ![Profile views](https://gpvc.arturio.dev/sufian202262) -->
 [![wakatime](https://wakatime.com/badge/user/b91aacce-e1eb-46ee-8af4-b4fe37728d49.svg)](https://wakatime.com/@b91aacce-e1eb-46ee-8af4-b4fe37728d49)
 
   ## 🏆 GitHub Trophies
   [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sufian202262)](https://github.com/sufian202262)
+
 
 ### <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width='50'/>&nbsp;Technologies and Tools</h2>
 <p align="center">
@@ -73,10 +60,18 @@
 </p> 
 
 
-## 💡 Random Dev Quote
-
+## 💡 Favorite Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Dev Quote" />
+    [![Readme Quotes](https://quotes-github-readme.vercel.app/api?
+    type=vertical&
+    theme=radical&
+    quote=You%20can’t%20connect%20the%20dots%20looking%20forward%3B%20you%20can%20only%20connect%20them%20looking%20backwards.%20So%20you%20have%20to%20trust%20that%20the%20dots%20will%20somehow%20connect%20in%20your%20future.&
+    author=Steve%20Jobs&
+    quoteColor=ffffff&
+    authorColor=adbac7&
+    backgroundColor=0d1117&
+    symbolColor=ff5d80
+    )](https://github.com/piyushsuthar/github-readme-quotes)
 </div>
 
 ## 🔝 Top Contributed Repositories
@@ -88,18 +83,12 @@
 ---
 
 <div align="center">
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=sufian202262&theme=tokyonight&bg_color=0d1117&color=319e94&line=6fa4fc&point=FFFFFF&hide_border=true)
-</div>
-
-
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sufian202262&icon=0&color=0" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=sufian202262&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 ---
 
 <p align="center">
-  <strong>Proudly created with ❤️ using GitHub Profile README</strong>
+  <strong>Proudly created with ❤️ by Abu Sufian</strong>
 </p>
 
